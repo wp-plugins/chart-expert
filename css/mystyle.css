@@ -1,0 +1,25 @@
+button, .button {
+  background-color: #008cba;
+  border-color: #007095;
+  border-style: solid;
+  border-width: 0;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  line-height: normal;
+  margin: 0 0 1.25rem;
+  padding: 1rem 2rem 1.0625rem;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 300ms ease-out 0s;
+}
+button:hover, button:focus, .button:hover, .button:focus {
+  color: #fff;
+}
+button:hover, button:focus, .button:hover, .button:focus {
+  background-color: #007095;
+}
