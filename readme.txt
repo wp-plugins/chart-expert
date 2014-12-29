@@ -105,11 +105,16 @@ Live Preview: http://pmzez.com/plugins/chart-expert/
  
 
 == Screenshots ==
-1. example - 1:
-2. example - 2:
-3. example - 3:
-4. example - 4:
-5. example - 5:
+
+* example - 1
+
+* example - 2
+
+* example - 3
+
+* example - 4
+
+* example - 5
 
 
 == Changelog ==
