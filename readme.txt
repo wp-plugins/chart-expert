@@ -1,5 +1,6 @@
 === Chart Expert ===
 
+Contributors: sagortouch
 Tags: area chart, bubble chart, chart, column, donut chart, line, pie chart, responsive, row, table, wordpress plugin
 Requires at least: 3.3
 Tested up to: 4.0.1
