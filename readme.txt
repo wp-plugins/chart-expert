@@ -99,22 +99,17 @@ Live Preview: http://pmzez.com/plugins/chart-expert/
 
 * Enjoy 
 
-== Frequently asked questions ==
-
-
- 
-
 == Screenshots ==
 
-* example - 1
+* example -1
 
-* example - 2
+* example -2
 
-* example - 3
+* example -3
 
-* example - 4
+* example -4
 
-* example - 5
+* example -5
 
 
 == Changelog ==
@@ -123,6 +118,3 @@ Live Preview: http://pmzez.com/plugins/chart-expert/
 * Initial Release
 
 * Unlimited chart generate plugin . 
-
-
-== Upgrade notice ==
