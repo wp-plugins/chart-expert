@@ -11,7 +11,7 @@ Unlimited chart generate plugin .
 
 == Description ==
 
-# PmZez Chart Expert by http://pmzez.com/plugins/chart-expert/
+PmZez Chart Expert by http://pmzez.com/plugins/chart-expert/
 
 Chart Expert gives some classes to each element when generating, so you can define a custom style by the class and it's possible to extend the structure directly by D3 and C3. 
 
@@ -28,7 +28,7 @@ Plugin Features
 * Responsive
 & many More
 
-# Youtube : 
+Youtube : 
 https://www.youtube.com/watch?v=5H5JjXeiB-8
 
 Live Preview: http://pmzez.com/plugins/chart-expert/
